@@ -23,7 +23,7 @@ Clone this repository:
 2. cd plp-week-two-assignment
 
 Run the script:
-1. python week_two_assignment.py
+1. python week_2_assignment.py
 
 **📌 Sample Output**
 Index of 30: 3
@@ -33,5 +33,6 @@ Final list: [10, 15, 20, 30, 40, 50, 60]
 1. Understanding Python list operations
 2. Using .append(), .insert(), .extend(), .pop(), .sort(), and .index()
 3. Writing clean, readable, and well‑commented code
+
 
 **Author: Kevin Macharia**
