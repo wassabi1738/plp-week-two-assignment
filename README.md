@@ -26,6 +26,7 @@ Run the script:
 1. python week_2_assignment.py
 
 **📌 Sample Output**
+
 Index of 30: 3
 
 Final list: [10, 15, 20, 30, 40, 50, 60]
@@ -37,4 +38,5 @@ Final list: [10, 15, 20, 30, 40, 50, 60]
 
 
 **Author: Kevin Macharia**
+
 
